@@ -2,7 +2,7 @@
 
 <!--
 **shreeya-pareek/shreeya-pareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Hi, I'm Shreeya! 👋
 
 Aspiring AI/LLM Engineer | B.Sc. IT Student
